@@ -1,0 +1,11 @@
+console.log("Apna college");
+fullName="Aparna";
+radius=22.8;
+console.log(fullName);
+console.log(radius);
+a=null;
+x=undefined;
+console.log(a);
+console.log(x);
+isFollow=true;
+console.log(isFollow);
